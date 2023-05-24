@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thien Phuoc</h1>
 <h3 align="center">I am a final-year student majoring in Information Technology at The University of Technical Education - The University of Danang.</h3>
+<p align="center">
+  <a href="https://wakatime.com/@2eee1821-a367-4c04-9805-da4562cb0609">
+    <img src="https://wakatime.com/badge/user/2eee1821-a367-4c04-9805-da4562cb0609.svg" alt="Total time coded since May 24 2023" />
+  </a>
+</p>
 
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="gif" width="240px" height="180px"/>
 
