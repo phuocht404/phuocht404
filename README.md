@@ -120,4 +120,4 @@ alt="icon" width="24" height="24" />
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thienphuoc03&theme=tokyonight" alt="thienphuoc03" /></p>
 
-<p><img align="center" src="https://github-readme-stats-thienphuoc03.vercel.app/api/wakatime?username=thienphuoc&v=2&theme=tokyonight" alt="thienphuoc" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats-thienphuoc03.vercel.app/api/wakatime?username=thienphuoc&v=2&theme=tokyonight" alt="thienphuoc" /></p> -->
