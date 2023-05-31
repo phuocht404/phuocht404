@@ -116,7 +116,7 @@ alt="icon" width="24" height="24" />
 
 <p><img align="left" src="https://github-readme-stats-thienphuoc03.vercel.app/api/top-langs?username=thienphuoc03&count_private=true&langs_count=8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thienphuoc03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-thienphuoc03.vercel.app/api?username=thienphuoc03&show_icons=true&locale=en&theme=tokyonight" alt="thienphuoc03" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-thienphuoc03.vercel.app/api?username=thienphuoc03&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="thienphuoc03" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thienphuoc03&theme=tokyonight" alt="thienphuoc03" /></p>
 
