@@ -8,7 +8,7 @@
 
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="gif" width="240px" height="180px"/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/thienphuoc03?tab=repositories](https://github.com/thienphuoc03?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/phuocht404?tab=repositories)
 
 - 📫 How to reach me **thienphuoc2391@gmail.com**
 
